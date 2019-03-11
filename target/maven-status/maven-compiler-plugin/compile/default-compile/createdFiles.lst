@@ -1,0 +1,5 @@
+entity\Person.class
+facade\PersonFacade.class
+filter\ResponseFilter.class
+rest\CrudResource.class
+rest\ApplicationConfig.class
